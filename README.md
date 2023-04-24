@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [My Solution]()
-- [Live Site URL]()
+- [My Solution](https://www.frontendmentor.io/solutions/mobilefirst-workflow-usng-flexbox-KHbWSB7AG6)
+- [Live Site URL](https://mike-dave.github.io/Interactive-rating-component-solution/)
 
 ## My process
 
