@@ -101,7 +101,7 @@ h1 {
   color: var(--white);
 }
 
-.item:focus {
+.item.active {
   background-color: var(--light-grey);
   color: var(--white);
 }
